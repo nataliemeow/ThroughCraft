@@ -1,3 +1,5 @@
+# This is a fork of [@ddevault/truecraft](https://github.com/ddevault/truecraft), which is now abandoned and archived.
+
 <p align="center">
     <img src="https://sr.ht/3O-k.png" width="728" />
 </p>
